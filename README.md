@@ -32,6 +32,7 @@ The Adzuna free tier caps job descriptions at 500 characters. That truncation cu
 | `skills_chart.html` | Interactive skill frequency chart |
 | `jobs_raw.csv` | Raw data pulled from API |
 | `newplot.png` | Snapshot of skills chart |
+[View live chart](https://poweredbynoki.github.io/-job-market-intelligence/skills_chart.html)
 
 ## How to run it
 
